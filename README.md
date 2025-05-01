@@ -1,7 +1,7 @@
 Technology Stack:
 Language: C#
 
-Framework: ASP.NET Core (likely .NET 8)
+Framework: ASP.NET Core (.NET 8)
 
 Architecture: MVC-style with a focus on API development
 
